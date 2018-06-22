@@ -44,7 +44,3 @@ Products can be viewed at `http://flask-hostname:5000/products` or by refreshing
 ## Members
 
 [Emad Siddiqui](https://github.com/eusiddiq)
-
-[Blake Reed](https://github.com/BlakeReed19)
-
-[Jan Timpe](https://github.com/jan-timpe)
