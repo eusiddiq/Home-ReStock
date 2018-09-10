@@ -40,7 +40,3 @@ Open the `mobile` directory in Android Studio. Replace the url in `app/src/main/
 Place a product on the platform in front of the Raspberry Pi and webcam (with the barcode facing the camera). Adjust to get a clear image of the barcode. Weight sensing is mocked due to buggy load cells (removes 20% of the products initial weight for every 10 frames the barcode is captured).
 
 Products can be viewed at `http://flask-hostname:5000/products` or by refreshing the screen (pull down to refresh) in the Android app.
-
-## Members
-
-[Emad Siddiqui](https://github.com/eusiddiq)
